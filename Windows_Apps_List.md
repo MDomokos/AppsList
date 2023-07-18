@@ -14,8 +14,6 @@
 
 [Telegram](https://telegram.org/) - Just telegram
 
-[Open VPN](https://openvpn.net/) - Home VPN
-
 --------------------------
 
 [Obsidian](https://obsidian.md/) - All my notes
@@ -30,15 +28,17 @@
 
 [Plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins) - Extensions for QuickLook. Office Files, 3D File, APK, JupyterNotebook, CorelDraw.
 
+[Power Toys](https://github.com/microsoft/PowerToys) - Windows extension
+
+[WinDirStat](https://windirstat.net/) - Storage space visualizer
+
+[Open VPN](https://openvpn.net/) - Home VPN
+
 --------------------------
 
 [NextDNS](https://nextdns.io/) - Best encrypted DNS
 
 [SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Syncthing solution
-
-[Power Toys](https://github.com/microsoft/PowerToys) - Windows extension
-
-[WinDirStat](https://windirstat.net/) - Storage space visualizer
 
 [Gocrypt](https://nuetzlich.net/gocryptfs/) - Encrypted virtual drive that is cross platform with android
 
