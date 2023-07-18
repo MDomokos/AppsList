@@ -6,7 +6,7 @@
 
 [Calibre](https://calibre-ebook.com/) - Ebook manager
 
-
+--------------------------
 
 [Thunderbird](https://www.thunderbird.net/en-US/) - Email and CardDAV client
 [Radicale](https://github.com/39aldo39/Radicale-DecSync) - CardDAV and CalDAV server - (only needed if no Nextcloud)
