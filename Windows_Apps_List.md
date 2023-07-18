@@ -51,8 +51,11 @@
 --------------------------
 
 [Mullvad Browser](https://github.com/mullvad/mullvad-browser) - Out of the box hardened firefox. Same as basic but more secure.
+
 [Brave Browser](https://brave.com/) - Best Chromium based one. Disable Crypto stuff though. Use it for music listening because you can create a [PWA](https://www.friedrichkurz.me/blog/2022/08/21/pwa-with-brave/) for spotify and youtube which is like native app.
 - Using less native apps minimizes attack surface and PWAs are a great alternative
+
+--------------------------
 
 [OnlyOffice](https://www.onlyoffice.com/) - Initial load is kind of slow, but good office alternative with most of the features.
 
