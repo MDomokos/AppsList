@@ -1,7 +1,12 @@
 [qView](https://github.com/jurplel/qView) - Image Viewer 
+
 [Digikam](https://www.digikam.org/) - Photo Manager
+
 [MPV Video Player](https://mpv.io/) - Video Player [Rotate Video Keybind](https://askubuntu.com/questions/1212733/rotate-video-by-a-keyboard-shortcut-in-mpv)
+
 [Calibre](https://calibre-ebook.com/) - Ebook manager
+
+
 
 [Thunderbird](https://www.thunderbird.net/en-US/) - Email and CardDAV client
 [Radicale](https://github.com/39aldo39/Radicale-DecSync) - CardDAV and CalDAV server - (only needed if no Nextcloud)
